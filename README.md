@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello you! 👋
 
 I am Aleksi, entry-level software developer and passionated code writer.
 
