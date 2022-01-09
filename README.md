@@ -5,7 +5,7 @@ I am Aleksi, entry-level software developer and passionated code writer.
 - 🎓 Communication and Information Technologies student in Metropolia UAS
 - 📱 Majoring in Mobile Solutions
 - 😊 Most familiar with Javascript / React native, but willing to learn new coding languages.
-- 📚 Currently learning iOS development with Swift & SwiftUI
+- 📚 Currently learning Sensor Based Mobile Applications with Kotlin.
 - ⌚ Spending spare time with family, friends or gym
 
 ⬇️Most recent repositories below!⬇️
