@@ -1,3 +1,8 @@
+
+              
+<!--
+**aleksikyto/aleksikyto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Hello you! 👋
 
 I am Aleksi, entry-level software developer and passionated code writer.
@@ -8,9 +13,6 @@ I am Aleksi, entry-level software developer and passionated code writer.
 - ⌚ Spending spare time with family, friends or gym
 
 ⬇️Most recent repositories below!⬇️
-              
-<!--
-**aleksikyto/aleksikyto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
